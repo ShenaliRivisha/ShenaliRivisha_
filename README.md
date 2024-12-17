@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shenali Rivisha</h1>
 
-<h3 align="center">I'm an undergraduate student at SLIIT University, passionate about software development, cloud technologies, and UI/UX design.</h3>
+<h3 align="center">I'm an undergraduate student at SLIIT University.</h3>
 
 ---
 
@@ -57,10 +57,8 @@
 
 ### 🚀 **What I Do**
 - Backend Development with Node.js and MongoDB  
-- Cloud Integrations with GCP and AWS  
-- UI/UX Design for web and mobile applications  
-- Building efficient APIs and tools for developers  
-
+- Data Engineering with tools like Pandas and Elasticsearch  
+- Cloud Integrations with GCP and AWS 
 ---
 
 ### 📫 **Let's Connect**
