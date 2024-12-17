@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shenali Rivisha</h1>
 
 <h3 align="center"> 
-🎓 An undergraduate student at SLIIT University.    
+🎓 I am an undergraduate student at SLIIT University.    
 </h3>
 
 ---
