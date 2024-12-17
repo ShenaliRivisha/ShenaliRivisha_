@@ -3,8 +3,7 @@
 <h3 align="center">👋 Hi, I'm **Shenali Rivisha**!  
 🎓 An undergraduate student at **SLIIT University**.  
 🚀 Passionate about **data engineering**, cloud technologies, and backend development.  
-🌱 Currently exploring **GCP**, **AWS**, and building efficient APIs.  
-💡 I enjoy crafting solutions that combine performance and great design.  
+🌱 Currently exploring **GCP**, **AWS**, and building efficient APIs.   
 </h3>
 
 ---
